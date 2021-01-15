@@ -7,7 +7,7 @@
   We use google earth engine API and geemap package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets. After the necessary updates are made in     the tools, we want to login to the google earth engine via google account.
 
   Afterwards, you can download your image on the base you want in the area we have chosen via API.
-
+["Yeni Başlayanlar İçin 90 Dakikada Git"](https://www.youtube.com/watch?v=SX8bHqXt8ws&t=4777s&ab_channel=ArinYazilim)
 
 
 
@@ -19,7 +19,7 @@ Our images are obtained using google earth engine. By running the program, you c
 
 - Resources
 
-![Youtube Video](https://www.youtube.com/watch?v=oYRHwuQpYYk)
+![GEE Tutorial #18 - Creating Landsat timelapse animations with animated text using Earth Engine](https://www.youtube.com/watch?v=oYRHwuQpYYk)
 
 ![Youtube Video](https://www.youtube.com/channel/UCzVB3qcyTd-QGJKY_Hpky5g)
 
