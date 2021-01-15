@@ -1,5 +1,5 @@
 # Special Topics in Remote Sensing
-### 
+### LandCover script
 #### Homework
 
 - Working principle of the code
@@ -38,3 +38,5 @@ Our images are obtained using google earth engine. By running the program, you c
 [Gee-Map](https://github.com/giswqs/geemap/blob/master/examples/notebooks/08_ee_js_to_ipynb.ipynb)
 
 [Google Developers](https://developers.google.com/earth-engine/guides)
+
+##### Tahir Metehan Eren 010160628
