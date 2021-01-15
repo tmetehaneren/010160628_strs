@@ -19,4 +19,12 @@ Our images are obtained using google earth engine. By running the program, you c
 
 - Resources
 
-(https://www.youtube.com/c/QiushengWu)
+![Youtube Video](https://www.youtube.com/watch?v=oYRHwuQpYYk)
+
+![Youtube Video](https://www.youtube.com/channel/UCzVB3qcyTd-QGJKY_Hpky5g)
+
+![Youtube Video](https://www.youtube.com/watch?v=oYRHwuQpYYk)
+
+![Youtube Video](https://www.youtube.com/channel/UC_N_ufl-48AAIwC6tHg660Q)
+
+![Youtube Channel](https://www.youtube.com/c/QiushengWu)
